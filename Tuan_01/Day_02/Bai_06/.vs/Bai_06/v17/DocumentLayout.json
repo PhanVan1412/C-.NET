@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2025\\c#\\Tuan_01\\Day_02\\Bai_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15733A7D-C1A0-498B-A76A-80FDBF447128}|Bai_06\\Bai_06.csproj|e:\\2025\\c#\\tuan_01\\day_02\\bai_06\\bai_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15733A7D-C1A0-498B-A76A-80FDBF447128}|Bai_06\\Bai_06.csproj|solutionrelative:bai_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_01\\Day_02\\Bai_06\\Bai_06\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_06\\Program.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_01\\Day_02\\Bai_06\\Bai_06\\Program.cs",
+              "RelativeToolTip": "Bai_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T23:27:16.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

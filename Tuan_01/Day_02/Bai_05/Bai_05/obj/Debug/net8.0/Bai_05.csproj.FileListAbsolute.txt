@@ -1,0 +1,14 @@
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\bin\Debug\net8.0\Bai_05.exe
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\bin\Debug\net8.0\Bai_05.deps.json
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\bin\Debug\net8.0\Bai_05.runtimeconfig.json
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\bin\Debug\net8.0\Bai_05.dll
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\bin\Debug\net8.0\Bai_05.pdb
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\Bai_05.GeneratedMSBuildEditorConfig.editorconfig
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\Bai_05.AssemblyInfoInputs.cache
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\Bai_05.AssemblyInfo.cs
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\Bai_05.csproj.CoreCompileInputs.cache
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\Bai_05.dll
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\refint\Bai_05.dll
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\Bai_05.pdb
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\Bai_05.genruntimeconfig.cache
+E:\2025\c#\Tuan_01\Day_02\Bai_05\Bai_05\obj\Debug\net8.0\ref\Bai_05.dll

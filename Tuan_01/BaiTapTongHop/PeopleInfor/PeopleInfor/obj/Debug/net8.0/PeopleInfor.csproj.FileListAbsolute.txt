@@ -1,0 +1,14 @@
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\bin\Debug\net8.0\PeopleInfor.exe
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\bin\Debug\net8.0\PeopleInfor.deps.json
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\bin\Debug\net8.0\PeopleInfor.runtimeconfig.json
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\bin\Debug\net8.0\PeopleInfor.dll
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\bin\Debug\net8.0\PeopleInfor.pdb
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\PeopleInfor.GeneratedMSBuildEditorConfig.editorconfig
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\PeopleInfor.AssemblyInfoInputs.cache
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\PeopleInfor.AssemblyInfo.cs
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\PeopleInfor.csproj.CoreCompileInputs.cache
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\PeopleInfor.dll
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\refint\PeopleInfor.dll
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\PeopleInfor.pdb
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\PeopleInfor.genruntimeconfig.cache
+E:\2025\c#\Tuan_01\BaiTapTongHop\PeopleInfor\PeopleInfor\obj\Debug\net8.0\ref\PeopleInfor.dll

@@ -1,0 +1,24 @@
+﻿💡 Lý thuyết buổi 2: Cấu trúc dữ liệu và xử lý mảng
+🎯 Mục tiêu buổi học:
+• ✅ Nắm vững mảng (array) & List
+• ✅ Duyệt mảng: for, foreach
+• ✅ Xử lý mảng: tìm max, min, tổng, trung bình, lọc số chẵn/lẻ,...
+• ✅ Tư duy biến thể: mảng 2 chiều, lồng nhau, chuỗi
+🧠 1. Mảng là gì?
+Mảng (Array) là tập hợp nhiều phần tử cùng kiểu dữ liệu, được lưu liên tiếp trong bộ nhớ.
+int[] numbers = new int[5]; // khai báo mảng có 5 phần tử
+
+// hoặc khai báo + khởi tạo giá trị
+int[] numbers2 = { 1, 2, 3, 4, 5 };
+
+🔁 2. Duyệt mảng
+for (int i = 0; i < numbers2.Length; i++)
+{
+    Console.WriteLine(numbers2[i]);
+}
+foreach (int number in numbers2)
+{
+    Console.WriteLine(number);
+}
+
+

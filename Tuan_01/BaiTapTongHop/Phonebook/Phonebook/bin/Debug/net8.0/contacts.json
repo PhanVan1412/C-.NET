@@ -1,0 +1,20 @@
+[
+  {
+    "FirstName": "Phan",
+    "LastName": "Tam",
+    "FullName": "Phan Tam",
+    "PhoneNumber": "0854821811",
+    "Mail": "phanvantam2020@gmail.com",
+    "Address": "HCM",
+    "Group": 3
+  },
+  {
+    "FirstName": "Thai",
+    "LastName": "Dao",
+    "FullName": "Thai Dao",
+    "PhoneNumber": "0845394849",
+    "Mail": "thaithithuydao@gmail.com",
+    "Address": "DongThap",
+    "Group": 3
+  }
+]

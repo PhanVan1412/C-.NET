@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|e:\\2025\\c#\\tuan_02\\day01_linq\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|e:\\2025\\c#\\tuan_02\\day01_linq\\linq\\linq\\controller\\mediumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|solutionrelative:linq\\controller\\mediumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|e:\\2025\\c#\\tuan_02\\day01_linq\\linq\\linq\\controller\\advancedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|solutionrelative:linq\\controller\\advancedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|e:\\2025\\c#\\tuan_02\\day01_linq\\linq\\linq\\bo\\advancedbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|solutionrelative:linq\\bo\\advancedbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|e:\\2025\\c#\\tuan_02\\day01_linq\\linq\\linq\\bo\\mediumbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|solutionrelative:linq\\bo\\mediumbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|e:\\2025\\c#\\tuan_02\\day01_linq\\linq\\linq\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E63694-AB90-45A3-8CC8-D98680524D1B}|LINQ\\LINQ.csproj|solutionrelative:linq\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 541,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdvancedBO.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\BO\\AdvancedBO.cs",
+              "RelativeDocumentMoniker": "LINQ\\BO\\AdvancedBO.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\BO\\AdvancedBO.cs",
+              "RelativeToolTip": "LINQ\\BO\\AdvancedBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:12:32.437Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediumController.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Controller\\MediumController.cs",
+              "RelativeDocumentMoniker": "LINQ\\Controller\\MediumController.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Controller\\MediumController.cs",
+              "RelativeToolTip": "LINQ\\Controller\\MediumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:37:00.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:10:47.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediumBO.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\BO\\MediumBO.cs",
+              "RelativeDocumentMoniker": "LINQ\\BO\\MediumBO.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\BO\\MediumBO.cs",
+              "RelativeToolTip": "LINQ\\BO\\MediumBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:37:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvancedController.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Controller\\AdvancedController.cs",
+              "RelativeDocumentMoniker": "LINQ\\Controller\\AdvancedController.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Controller\\AdvancedController.cs",
+              "RelativeToolTip": "LINQ\\Controller\\AdvancedController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:15:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Readme.cs",
+              "RelativeDocumentMoniker": "LINQ\\Readme.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Day01_LINQ\\LINQ\\LINQ\\Readme.cs",
+              "RelativeToolTip": "LINQ\\Readme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:14:06.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

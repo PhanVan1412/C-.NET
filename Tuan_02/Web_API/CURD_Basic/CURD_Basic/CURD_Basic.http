@@ -1,0 +1,6 @@
+@CURD_Basic_HostAddress = http://localhost:5282
+
+GET {{CURD_Basic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

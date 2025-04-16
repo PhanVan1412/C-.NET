@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|e:\\2025\\c#\\tuan_02\\web_api\\curd_basic\\curd_basic\\controllers\\product\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|solutionrelative:curd_basic\\controllers\\product\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|e:\\2025\\c#\\tuan_02\\web_api\\curd_basic\\curd_basic\\bo\\product\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|solutionrelative:curd_basic\\bo\\product\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|e:\\2025\\c#\\tuan_02\\web_api\\curd_basic\\curd_basic\\bll\\product\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|solutionrelative:curd_basic\\bll\\product\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|e:\\2025\\c#\\tuan_02\\web_api\\curd_basic\\curd_basic\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|solutionrelative:curd_basic\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|e:\\2025\\c#\\tuan_02\\web_api\\curd_basic\\curd_basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|solutionrelative:curd_basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|e:\\2025\\c#\\tuan_02\\web_api\\curd_basic\\curd_basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1215D176-3DB4-457F-A4CF-091BBCC2EF98}|CURD_Basic\\CURD_Basic.csproj|solutionrelative:curd_basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 368,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\Controllers\\Product\\ProductController.cs",
+              "RelativeDocumentMoniker": "CURD_Basic\\Controllers\\Product\\ProductController.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\Controllers\\Product\\ProductController.cs",
+              "RelativeToolTip": "CURD_Basic\\Controllers\\Product\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:29:53.068Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductBLL.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\BLL\\Product\\ProductBLL.cs",
+              "RelativeDocumentMoniker": "CURD_Basic\\BLL\\Product\\ProductBLL.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\BLL\\Product\\ProductBLL.cs",
+              "RelativeToolTip": "CURD_Basic\\BLL\\Product\\ProductBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:30:15.475Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductBO.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\BO\\Product\\ProductBO.cs",
+              "RelativeDocumentMoniker": "CURD_Basic\\BO\\Product\\ProductBO.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\BO\\Product\\ProductBO.cs",
+              "RelativeToolTip": "CURD_Basic\\BO\\Product\\ProductBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:30:38.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CURD_Basic\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CURD_Basic\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:59:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\Program.cs",
+              "RelativeDocumentMoniker": "CURD_Basic\\Program.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\Program.cs",
+              "RelativeToolTip": "CURD_Basic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:59:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\appsettings.json",
+              "RelativeDocumentMoniker": "CURD_Basic\\appsettings.json",
+              "ToolTip": "E:\\2025\\c#\\Tuan_02\\Web_API\\CURD_Basic\\CURD_Basic\\appsettings.json",
+              "RelativeToolTip": "CURD_Basic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T13:59:20.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

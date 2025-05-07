@@ -17,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 439,
+          "DockedWidth": 221,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -43,13 +43,12 @@
               "RelativeToolTip": "PeopleInfor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T02:31:32.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T02:31:32.362Z"
             }
           ]
         },
         {
-          "DockedWidth": 123,
+          "DockedWidth": 98,
           "SelectedChildIndex": -1,
           "Children": [
             {

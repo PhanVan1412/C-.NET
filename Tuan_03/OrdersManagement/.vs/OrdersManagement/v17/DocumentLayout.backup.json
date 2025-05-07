@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\dao\\global\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\dao\\global\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\controllers\\order\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\controllers\\order\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\dao\\order\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\dao\\order\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\bll\\order\\orderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\bll\\order\\orderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\bo\\order\\orderbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\bo\\order\\orderbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\common\\helper\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\common\\helper\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\common\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\common\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\database\\posgresqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\database\\posgresqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|e:\\2025\\c#\\tuan_03\\ordersmanagement\\ordersmanagement\\database\\postgresqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E63625-B23D-4F63-BA35-8D540720D19B}|OrdersManagement\\OrdersManagement.csproj|solutionrelative:ordersmanagement\\database\\postgresqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Controllers\\Order\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\Controllers\\Order\\OrderController.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Controllers\\Order\\OrderController.cs",
+              "RelativeToolTip": "OrdersManagement\\Controllers\\Order\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:19:05.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderBLL.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\BLL\\Order\\OrderBLL.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\BLL\\Order\\OrderBLL.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\BLL\\Order\\OrderBLL.cs",
+              "RelativeToolTip": "OrdersManagement\\BLL\\Order\\OrderBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:19:51.167Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDAO.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\DAO\\Global\\BaseDAO.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\DAO\\Global\\BaseDAO.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\DAO\\Global\\BaseDAO.cs",
+              "RelativeToolTip": "OrdersManagement\\DAO\\Global\\BaseDAO.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv3AAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:29:04.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\DAO\\Order\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\DAO\\Order\\OrderDAO.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\DAO\\Order\\OrderDAO.cs",
+              "RelativeToolTip": "OrdersManagement\\DAO\\Order\\OrderDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:28:02.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "OrdersManagement\\appsettings.json",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\appsettings.json*",
+              "RelativeToolTip": "OrdersManagement\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T15:52:16.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\Program.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Program.cs",
+              "RelativeToolTip": "OrdersManagement\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:18:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderBO.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\BO\\Order\\OrderBO.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\BO\\Order\\OrderBO.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\BO\\Order\\OrderBO.cs",
+              "RelativeToolTip": "OrdersManagement\\BO\\Order\\OrderBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:20:16.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigHelper.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Common\\Helper\\ConfigHelper.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\Common\\Helper\\ConfigHelper.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Common\\Helper\\ConfigHelper.cs",
+              "RelativeToolTip": "OrdersManagement\\Common\\Helper\\ConfigHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:45:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Common\\Helper\\DataHelper.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\Common\\Helper\\DataHelper.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Common\\Helper\\DataHelper.cs",
+              "RelativeToolTip": "OrdersManagement\\Common\\Helper\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:15:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PosgreSQLData.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Database\\PosgreSQLData.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\Database\\PosgreSQLData.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Database\\PosgreSQLData.cs",
+              "RelativeToolTip": "OrdersManagement\\Database\\PosgreSQLData.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAwwBkBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:16:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostgreSQLService.cs",
+              "DocumentMoniker": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Database\\PostgreSQLService.cs",
+              "RelativeDocumentMoniker": "OrdersManagement\\Database\\PostgreSQLService.cs",
+              "ToolTip": "E:\\2025\\c#\\Tuan_03\\OrdersManagement\\OrdersManagement\\Database\\PostgreSQLService.cs",
+              "RelativeToolTip": "OrdersManagement\\Database\\PostgreSQLService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:00:57.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "OrdersManagement.Controllers.Order.OrderController",
+    "Method": "GetOrder",
+    "RelativePath": "api/v1/Order/GetOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "seachParam",
+        "Type": "OrdersManagement.BO.OrderBO.SearchParamBO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

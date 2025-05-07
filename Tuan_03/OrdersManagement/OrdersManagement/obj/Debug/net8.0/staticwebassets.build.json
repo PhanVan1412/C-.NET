@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KTnLmDrjKre23Hfx1PTs9uAFmImiPdxrYimlgPMZbuQ=",
+  "Source": "OrdersManagement",
+  "BasePath": "_content/OrdersManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

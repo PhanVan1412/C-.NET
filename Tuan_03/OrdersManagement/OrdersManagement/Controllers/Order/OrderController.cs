@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using OrdersManagement.BLL.OrderBLL;
 using OrdersManagement.BO.OrderBO;
 
@@ -8,6 +9,7 @@ namespace OrdersManagement.Controllers.Order
     [Route("/api/v1/[controller]/[action]")]
     public class OrderController : ControllerBase
     {
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> GetOrder([FromBody] SearchParamBO seachParam)
         {
